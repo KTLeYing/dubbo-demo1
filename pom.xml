@@ -11,6 +11,7 @@
     <modules>
         <module>dubbo-api</module>
         <module>dubbo-provider</module>
+        <module>dubbo-consumer</module>
     </modules>
 
     <!--modules可以先不写，后面创建子模块的时候会自动加上，如果先写上，在创建子工程后可能会重复，报错-->
